@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=al-ameersr&label=Profile%20views&color=0e75b6&style=flat" alt="al-ameersr" /> </p>
 
-- 🌱 I’m currently learning **React js and Spring boot Microservices**
+- 🌱 I’m currently learning **DSA**
 
 - 👯 I’m looking to collaborate on **Java Projects**
 
