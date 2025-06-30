@@ -8,11 +8,9 @@
 
 - 👯 I’m looking to collaborate on **Java Projects**
 
-- 👨‍💻 All of my projects are available at [https://al-ameersr.com/](https://al-ameersr.com/)
-
 - 📫 How to reach me **iamameer37@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iz-ji-E6W44tHwslXabdE5r2WMqjFWtF/view?usp=sharing](https://drive.google.com/file/d/1iz-ji-E6W44tHwslXabdE5r2WMqjFWtF/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/17VgXZycqQEN4vY2_qEdsU0q4gUiLHutp/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
